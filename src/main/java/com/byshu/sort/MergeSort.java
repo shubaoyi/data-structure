@@ -1,4 +1,4 @@
-package com.byshu;
+package com.byshu.sort;
 
 
 public class MergeSort {
